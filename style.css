@@ -23,6 +23,7 @@ html, body {
     padding-top:  18vh;
 }  
 
+
 #page1 h1{
     font-size: 15vw;
     text-transform: uppercase;
@@ -31,6 +32,9 @@ html, body {
     font-family: futura;
     line-height: 14vw;
     letter-spacing: -5 px;
+}
+#center{
+    text-align:center;
 }
 #video-container{
     height: 100vh;
